@@ -1,0 +1,7 @@
+{ "variants": {
+    "": [
+      { "model": "block/flower/poppy/0" },
+      { "model": "block/flower/poppy/1" }
+    ]
+  }
+}

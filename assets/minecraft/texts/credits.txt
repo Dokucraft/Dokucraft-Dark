@@ -50,7 +50,7 @@
 §f			JOrbis by JCraft
 
 §7Texture pack used:
-§f			DokuCraft TSC Light
+§f			DokuCraft TSC Dark
 
 §7Music used:
 §f			Evening Breeze
@@ -193,8 +193,8 @@
 §f			Staretta
 §f			SpAcE_mOnKeY126
 §f			InfectedSkies
-§f      SyndiShanX
-§f      Joanarr
+§f      	SyndiShanX
+§f      	Joanarr
 
 
 

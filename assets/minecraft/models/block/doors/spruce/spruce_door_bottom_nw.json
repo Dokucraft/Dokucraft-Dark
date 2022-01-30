@@ -132,7 +132,7 @@
 			}
 		},
 		{
-			"name": "Door Top Metal",
+			"name": "Door Bottom Metal",
 			"from": [0, 1.5, 7.5],
 			"to": [5, 2.5, 8.5],
 			"faces": {
@@ -145,7 +145,7 @@
 			}
 		},
 		{
-			"name": "Door Top Metal",
+			"name": "Door Bottom Metal",
 			"from": [0.75, 4, 0],
 			"to": [4.25, 6, 16],
 			"faces": {
@@ -157,7 +157,7 @@
 			}
 		},
 		{
-			"name": "Door Top Metal",
+			"name": "Door Bottom Metal",
 			"from": [0.75, 12, 0],
 			"to": [4.25, 14, 16],
 			"faces": {
@@ -169,7 +169,7 @@
 			}
 		},
 		{
-			"name": "Door Top Metal",
+			"name": "Door Bottom Metal",
 			"from": [0.25, 1.5, 12.5],
 			"to": [4.75, 2.5, 13.5],
 			"faces": {
@@ -182,7 +182,7 @@
 			}
 		},
 		{
-			"name": "Door Top Metal",
+			"name": "Door Bottom Metal",
 			"from": [0.25, 15.5, 12.5],
 			"to": [4.75, 16.5, 13.5],
 			"faces": {
@@ -195,7 +195,7 @@
 			}
 		},
 		{
-			"name": "Door Top Metal",
+			"name": "Door Bottom Metal",
 			"from": [0, 15.5, 7.5],
 			"to": [5, 16.5, 8.5],
 			"faces": {
@@ -208,7 +208,7 @@
 			}
 		},
 		{
-			"name": "Door Top Metal",
+			"name": "Door Bottom Metal",
 			"from": [0.25, 1.5, 2.5],
 			"to": [4.75, 2.5, 3.5],
 			"faces": {
@@ -221,7 +221,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [1, 6, 13],
 			"to": [4, 12, 16],
 			"faces": {
@@ -232,7 +232,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [1.25, 6, 3],
 			"to": [3.75, 12, 6],
 			"faces": {
@@ -241,7 +241,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [1.25, 6, 9.5],
 			"to": [3.75, 12, 13],
 			"faces": {
@@ -250,7 +250,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [1, 6, 6],
 			"to": [4, 12, 9.5],
 			"faces": {
@@ -261,7 +261,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [1, 6, 0],
 			"to": [4, 12, 3],
 			"faces": {
@@ -272,7 +272,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [0.5, 0, 10.5],
 			"to": [4.5, 4, 16],
 			"faces": {
@@ -284,7 +284,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [0.5, 14, 10.5],
 			"to": [4.5, 16, 16],
 			"faces": {
@@ -295,7 +295,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [0.5, 0, 0],
 			"to": [4.5, 4, 5.5],
 			"faces": {
@@ -307,7 +307,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [0.5, 14, 0],
 			"to": [4.5, 16, 5.5],
 			"faces": {
@@ -318,7 +318,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [0.25, 0, 5.5],
 			"to": [4.75, 4, 10.5],
 			"faces": {
@@ -331,7 +331,7 @@
 			}
 		},
 		{
-			"name": "Door Top Plank",
+			"name": "Door Bottom Plank",
 			"from": [0.25, 14, 5.5],
 			"to": [4.75, 16, 10.5],
 			"faces": {

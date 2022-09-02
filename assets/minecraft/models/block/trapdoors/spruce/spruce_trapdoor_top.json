@@ -3,9 +3,9 @@
 	"parent": "block/thin_block",
 	"ambientocclusion": false,
 	"textures": {
+		"particle": "block/trapdoors/spruce_trapdoor",
 		"trapdoor": "block/trapdoors/spruce_trapdoor",
-		"sides": "block/trapdoors/spruce_trapdoor_rim",
-		"particle": "block/trapdoors/spruce_trapdoor"
+		"sides": "block/trapdoors/spruce_trapdoor_rim"
 	},
 	"elements": [
 		{
@@ -76,7 +76,6 @@
 			"faces": {
 				"north": {"uv": [11, 9, 11.5, 9.5], "texture": "#sides"},
 				"east": {"uv": [11, 2, 11.5, 9.5], "rotation": 270, "texture": "#sides"},
-				"south": {"uv": [11.5, 2, 11, 2.5], "texture": "#missing"},
 				"west": {"uv": [11, 2, 11.5, 9.5], "rotation": 90, "texture": "#sides"},
 				"up": {"uv": [11, 2, 11.5, 9.5], "rotation": 180, "texture": "#sides"},
 				"down": {"uv": [11, 9.5, 11.5, 2], "rotation": 180, "texture": "#sides"}
@@ -89,7 +88,6 @@
 			"faces": {
 				"north": {"uv": [12, 9, 12.5, 9.5], "texture": "#sides"},
 				"east": {"uv": [12, 2, 12.5, 9.5], "rotation": 270, "texture": "#sides"},
-				"south": {"uv": [12.5, 2, 12, 2.5], "texture": "#missing"},
 				"west": {"uv": [12, 2, 12.5, 9.5], "rotation": 90, "texture": "#sides"},
 				"up": {"uv": [12, 2, 12.5, 9.5], "rotation": 180, "texture": "#sides"},
 				"down": {"uv": [12, 9.5, 12.5, 2], "rotation": 180, "texture": "#sides"}

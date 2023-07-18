@@ -50,7 +50,7 @@
 		{ "type": "filter",
       "pattern": {
         "namespace": "minecraft",
-        "path": "block/cherry_leaves"
+        "path": "block/cherry_leaves$"
       }
     },
 		{ "type": "filter",
@@ -194,8 +194,8 @@
 		{ "type": "filter",
       "pattern": {
         "namespace": "minecraft",
-        "path": "block/mud"
+        "path": "block/mud$"
       }
-    },
+    }
 	]
 }

@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/vine",
+    "tints": [
+      {
+        "type": "minecraft:constant",
+        "value": [0.302, 0.373, 0.216]
+      }
+    ]
+  }
+}

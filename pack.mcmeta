@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 50,
+    "pack_format": 55,
     "description": [
       { "text": "Dark and handsome\n", "color": "#60986f" },
       { "text": "v1.21.5", "color": "#e0e0dc" },

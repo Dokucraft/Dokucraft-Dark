@@ -1,4 +1,10 @@
 { "sources": [
+    { "type": "single",
+      "resource": "entity/lead_knot/lead_knot"
+    },
+    { "type": "single",
+      "resource": "entity/end_crystal/end_crystal"
+    },
 		{ "type": "directory",
       "source": "entity/boat/item",
       "prefix": "entity/boat/item/"
